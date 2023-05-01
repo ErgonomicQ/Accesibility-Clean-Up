@@ -16,15 +16,15 @@ body {
     width: 100%;
 }
 
-
 h1{
     color: #ffffff
 }
-
+/* use of span element to separate the different colors in h1 */
 h1 span{
     color: #d9dcd6
 }
 
+/* styling ui and li elements of the nav bar to have a no wrap with window is shrunk */
 ul{
     text-align: left;
     background-color: #2a607c;
@@ -53,12 +53,13 @@ p {
     
 }
 
+/* hero class functioned well within current code, kept once img was moved into the body*/
 .hero {
     width: 100%;
     position: relative;
     bottom: 23px;
 }
-
+/* section style section organized by each element inside of it */
 section{
     margin-bottom: 20px;
     padding: 50px;
@@ -87,7 +88,7 @@ h2 {
     float: right;
     margin-left: 25px;
 }
-
+/* article section organized like section elements */
 article {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +122,8 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*footer css left in code in case client wished to keep it, was not included in the mock-up photos*/
 
 /* footer {
     padding: 30px;
