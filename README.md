@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo is for a boot camp exersize showing a understanding of semantic HTML elements, proper CSS styling, and image labeling, with focus on accessibility. I have added the MIT Licence as to ask for feedback on the work, though I cannot accept changes from outside users at this time. 
+This repo is for a boot camp exersize showing a understanding of semantic HTML elements, proper CSS styling, and image labeling, with focus on accessibility. I have added the MIT Licence to the readme as to ask for feedback on the work.
 
 
 ## Installation
@@ -13,7 +13,7 @@ You can run this code in VS Code, or any other coding application of your prefer
 This is just an exercize module for a bootcamp course. While it has little practicle usage, it servers as an example of my work as a beginner.
 
 ## Credits
-Gijs, 18 July, 2012 "When you don't know the width because the links can differ in width you could use display: inline-block on the list item "li" and "white-space: nowrap" on the list itself <ul>" [Stack Overflow post] https://stackoverflow.com/questions/11540268/prevent-wrapping-of-menu-items
+Gijs, 18 July, 2012 "When you don't know the width because the links can differ in width you could use display: inline-block on the list item "li" then "white-space: nowrap" on the list itself <ul>" [Stack Overflow post] https://stackoverflow.com/questions/11540268/prevent-wrapping-of-menu-items
 
 
 
@@ -40,7 +40,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
