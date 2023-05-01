@@ -10,10 +10,12 @@ This repo is for a boot camp exersize showing a understanding of semantic HTML e
 You can run this code in VS Code, or any other coding application of your preference. 
 
 ## Usage
-This is just an exercize module for a bootcamp course. While it has little practicle usage, it servers as an example of my work as a beginner.
+This is just an exercize module for a bootcamp course. While it has little practical usage, it servers as an example of my work as a beginner and my continued growth. 
 
 ## Credits
 Gijs, 18 July, 2012 "When you don't know the width because the links can differ in width you could use display: inline-block on the list item "li" then "white-space: nowrap" on the list itself "ul." [Stack Overflow post] https://stackoverflow.com/questions/11540268/prevent-wrapping-of-menu-items
+
+coothead, June 2020, "Styling an H1 with multiple colors" https://www.sitepoint.com/community/t/styling-an-h1-with-multiple-colors/353697
 
 
 
