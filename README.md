@@ -17,6 +17,8 @@ Gijs, 18 July, 2012 "When you don't know the width because the links can differ 
 
 coothead, June 2020, "Styling an H1 with multiple colors" https://www.sitepoint.com/community/t/styling-an-h1-with-multiple-colors/353697
 
+Original Code from: https://github.com/coding-boot-camp/urban-octo-telegram, use of the .hero class came from this repo.
+
 ## Screenshots: 
 Note: I do not have the fonts installed on my PC, so while the fonts will not match, the sizing should. 
 https://imgur.com/a/KZ1IEMQ - album with mockup shots
