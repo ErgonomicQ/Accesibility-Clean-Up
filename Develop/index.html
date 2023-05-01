@@ -25,12 +25,12 @@
             </ul>
         </nav>
     </header>
-    <!--adding image to the body as opposed to a part of the style sheet, adding alt text-->
+    <!--adding image to the body as opposed to a part of the style sheet, adding alt text, using the hero class as it fits into current code-->
     <img src= ".\assets\images\digital-marketing-meeting.jpg" alt="picture of web designers brainstorming" class="hero">
     
     <!--creation of section elements to separate elements-->
         <section>
-            <!--Creation of new id tags for uniform CSS option that can later be extaacted for later design-->
+            <!--Creation of two new id tags for uniform CSS option that can later be extaacted for later design-->
             <img src="./assets/images/search-engine-optimization.jpg"  id="section-image"/>
             <h2>Search Engine Optimization</h2>
             <p>
@@ -55,24 +55,22 @@
             </p>
         </section>
 
-    <!-- creation of an article element for side content-->
+    <!-- creation of an article element for side content, maintained use of div as it fits well into current code-->
 <article>
-        <div class="benefit-internal" >
+        <div class="benefit-internal">
             <!-- sequential use of header #'s for better organization -->
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png"  id="benefit-img"/>
             <p>
                 Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
             </p>
-        <!-- </div> -->
-        <!-- <div class="benefit-brand"> -->
+        
             <h3 id="benefits-margin">Brand Awareness</h3>
             <img src="./assets/images/brand-awareness.png" id="benefit-img" />
             <p>
                 Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
             </p>
-        <!-- </div> -->
-        <!-- <div class="benefit-cost"> -->
+       
             <h3 id="benefits-margin">Cost Management</h3>
             <img src="./assets/images/cost-management.png"id="benefit-img">
             <p>
@@ -81,12 +79,13 @@
         </div>
 </article>
 
-    <div class="footer">
-        <h2>Made with ❤️️ by Horiseon</h2>
+<!-- created a footer section for semantic structure-->
+    <footer>
+        <h4>Made with ❤️️ by Horiseon</h4>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
         </p>
-    </div>
+    </footer>
 </body>
 
 </html>
