@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This repo is for a boot camp exersize showing a understanding of semantic HTML elements, proper CSS styling, and image labeling, with focus on accessibility.
 
 
